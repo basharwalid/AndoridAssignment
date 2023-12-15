@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndoridAssignment1</string>
+    <string name="user_name">User name</string>
+    <string name="please_enter_user_name">Please Enter User name</string>
+    <string name="password">password</string>
+    <string name="please_enter_password">Please Enter password</string>
+    <string name="login">Login</string>
+</resources>
